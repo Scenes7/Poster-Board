@@ -1,7 +1,7 @@
 {
   "name": "poster-board",
   "version": "1.0.0",
-  "description": "",
+  "description": "a A website that allows users to anonymously share posts about any issue they're passionate about",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
