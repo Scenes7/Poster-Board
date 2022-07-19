@@ -1,2 +1,1 @@
-# Poster-Board---Recess-Hacks-Project
-A website that allows users to anonymously share posts about any issue they're passionate about!
+A project made for the Recess Hacks 2022 Hackathon
